@@ -1,0 +1,7 @@
+### Installing R ###
+
+Follow the instructions in the [R project website](https://www.r-project.org/)
+
+### Installing RStudio Desktop (now posit) ###
+
+Follow the instructions in the [RStudio website](https://posit.co/download/rstudio-desktop/)

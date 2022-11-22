@@ -1,0 +1,7 @@
+### Installing Git ###
+
+https://git-scm.com/download/win
+
+## After installing Git and RStudio, link the GitHub 'wbc2023' repository to your local files ##
+
+See instructions in the book [Happy Git with R](https://git-scm.com/download/win)
